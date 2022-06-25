@@ -1,0 +1,44 @@
+.nav-bar{
+    position: fixed;
+    height: 50px;
+    
+    display:flex;
+    background-color:#111;
+    top: 0%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    
+}
+.logo{
+    position: fixed;
+    left: 50px;
+    width: 80px;
+    top: 15px;
+}
+.avatar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+    top: 10px;
+}
+.navbar-list{
+    
+    list-style: none;
+    padding-left: 5cm;
+    padding-top: 15px;
+    
+}
+.navbar-list li {
+    display: inline;
+    
+}
+.navbar-collapse{
+display: table;
+
+    }
+.nav-link{
+    text-decoration: none;
+    color:whitesmoke;  
+    margin:10px;
+}
