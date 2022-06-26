@@ -1,0 +1,18 @@
+.row{
+    margin-left: 20px;
+    color: #fff;
+}
+.posters{
+    display: flex;
+    margin: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.posters::-webkit-scrollbar{
+    display: none;
+}
+.poster{
+    height: 8cm;
+    margin-right: .3cm;
+    margin-left: .2cm;
+}
