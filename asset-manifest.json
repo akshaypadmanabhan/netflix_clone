@@ -1,0 +1,13 @@
+{
+  "main.css": "/netflix_clone/static/css/main.ef836a11.chunk.css",
+  "main.js": "/netflix_clone/static/js/main.6bfc2d6f.chunk.js",
+  "main.js.map": "/netflix_clone/static/js/main.6bfc2d6f.chunk.js.map",
+  "static/js/1.e37e97a2.chunk.js": "/netflix_clone/static/js/1.e37e97a2.chunk.js",
+  "static/js/1.e37e97a2.chunk.js.map": "/netflix_clone/static/js/1.e37e97a2.chunk.js.map",
+  "runtime~main.js": "/netflix_clone/static/js/runtime~main.8b9452fe.js",
+  "runtime~main.js.map": "/netflix_clone/static/js/runtime~main.8b9452fe.js.map",
+  "static/css/main.ef836a11.chunk.css.map": "/netflix_clone/static/css/main.ef836a11.chunk.css.map",
+  "index.html": "/netflix_clone/index.html",
+  "precache-manifest.5dabe23d3706888928ab1447caf47ec1.js": "/netflix_clone/precache-manifest.5dabe23d3706888928ab1447caf47ec1.js",
+  "service-worker.js": "/netflix_clone/service-worker.js"
+}
